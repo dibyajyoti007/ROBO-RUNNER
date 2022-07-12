@@ -8,3 +8,5 @@ write the command---
 >> pip install pygame
 
 After installation is done successfully, You can run the game with ease. 
+
+DON'T FORGET TO HAVE FUN...
