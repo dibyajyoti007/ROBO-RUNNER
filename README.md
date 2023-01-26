@@ -10,3 +10,6 @@ write the command---
 After installation is done successfully, You can run the game with ease. 
 
 DON'T FORGET TO HAVE FUN...
+
+# SCREENSHOT OF HOW THE GAME LOOKS LIKE
+![pro2](https://user-images.githubusercontent.com/38237718/214852962-5195a519-9f73-46cd-927a-85731d57007d.png)
